@@ -1,2 +1,2 @@
 # pythonScript
-usefool tool script by python
+useful tool script by python
